@@ -15,7 +15,7 @@
 
 body {
     margin: 0px;
-    background: #141E30;  /* fallback for old browsers */
+    background: #fff;  /* fallback for old browsers */
     background: -webkit-linear-gradient(to right, #243B55, #141E30);  /* Chrome 10-25, Safari 5.1-6 */
     background: linear-gradient(to right, #243B55, #141E30); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
     overscroll-behavior: none;
@@ -50,7 +50,6 @@ h5 {
     background: linear-gradient(to right, #00CDAC, #02AAB0); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
 
 }
-
 
 
 .congratulations__banner p {
@@ -113,4 +112,9 @@ h5 {
     animation-delay: 2.5s;
     -webkit-animation-delay: 2.5s;
   }
+
+.nopadding {
+    padding: 0 !important;
+    margin: 0 !important;
+ }
 
