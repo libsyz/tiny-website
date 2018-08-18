@@ -96,3 +96,21 @@ h5 {
     background-color: rgba(83, 18, 83, 1);
     border: none;
 }
+
+.present-1 {
+    animation-delay: 1.5s;
+    -webkit-animation-delay: 1.5s;
+  }
+
+
+.present-2 {
+    animation-delay: 2.0s;
+    -webkit-animation-delay: 2.0s;
+  }
+
+
+.present-3 {
+    animation-delay: 2.5s;
+    -webkit-animation-delay: 2.5s;
+  }
+
